@@ -1,0 +1,14 @@
+import time
+
+def kiss():
+    return print("😘")
+
+def have_sex():
+    return print("💦")
+
+def Olivia_in_Korea():
+    print("yay")
+
+for day in time(Olivia_in_Korea):
+    10 * kiss()
+    2 * have_sex()
